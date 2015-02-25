@@ -1,0 +1,5 @@
+\\psf\Home\Desktop\MyRSA\MyRSA\obj\x86\Debug\MyRSA.exe
+\\psf\Home\Desktop\MyRSA\MyRSA\bin\Debug\MyRSA.exe
+\\psf\Home\Desktop\MyRSA\MyRSA\bin\Debug\MyRSA.pdb
+\\psf\Home\Desktop\MyRSA\MyRSA\obj\x86\Debug\ResolveAssemblyReference.cache
+\\psf\Home\Desktop\MyRSA\MyRSA\obj\x86\Debug\MyRSA.pdb

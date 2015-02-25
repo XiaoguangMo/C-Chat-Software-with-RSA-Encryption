@@ -1,0 +1,17 @@
+D:\软件开发项目\NetworkApp\AsyncTcpClient\obj\Debug\ResolveAssemblyReference.cache
+D:\软件开发项目\NetworkApp\AsyncTcpClient\obj\Debug\AsyncTcpClient.FormClient.resources
+D:\软件开发项目\NetworkApp\AsyncTcpClient\obj\Debug\AsyncTcpClient.Properties.Resources.resources
+D:\软件开发项目\NetworkApp\AsyncTcpClient\obj\Debug\AsyncTcpClient.csproj.GenerateResource.Cache
+D:\软件开发项目\NetworkApp\AsyncTcpClient\bin\Debug\AsyncTcpClient.exe
+D:\软件开发项目\NetworkApp\AsyncTcpClient\bin\Debug\AsyncTcpClient.pdb
+D:\软件开发项目\NetworkApp\AsyncTcpClient\obj\Debug\AsyncTcpClient.exe
+D:\软件开发项目\NetworkApp\AsyncTcpClient\obj\Debug\AsyncTcpClient.pdb
+\\psf\Home\Desktop\AsyncTcpClient\obj\Debug\AsyncTcpClient.exe
+\\psf\Home\Desktop\AsyncTcpClient\obj\Debug\AsyncTcpClient.pdb
+\\psf\Home\Desktop\AsyncTcpClient\bin\Debug\AsyncTcpClient.exe
+\\psf\Home\Desktop\AsyncTcpClient\bin\Debug\AsyncTcpClient.pdb
+\\psf\Home\Desktop\AsyncTcpClient\obj\Debug\ResolveAssemblyReference.cache
+\\psf\Home\Desktop\AsyncTcpClient\obj\Debug\AsyncTcpClient.FormClient.resources
+\\psf\Home\Desktop\AsyncTcpClient\obj\Debug\AsyncTcpClient.Properties.Resources.resources
+\\psf\Home\Desktop\AsyncTcpClient\obj\Debug\GenerateResource.read.1.tlog
+\\psf\Home\Desktop\AsyncTcpClient\obj\Debug\GenerateResource.write.1.tlog

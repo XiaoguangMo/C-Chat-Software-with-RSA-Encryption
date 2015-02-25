@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AsyncTcpServer">
+</Property><Property Name="解决方案文件" Value="Y:\百度云同步盘\AsyncTcpServer\AsyncTcpServer.sln">
+</Property><Property Name="Date" Value="2014年5月7日">
+</Property><Property Name="Time" Value="0:27:29">
+</Property></Properties><Event ErrorLevel="0" Project="AsyncTcpServer" Source="AsyncTcpServer.csproj" Description="项目文件已成功备份为 Y:\百度云同步盘\AsyncTcpServer\Backup\AsyncTcpServer.csproj">
+</Event><Event ErrorLevel="0" Project="AsyncTcpServer" Source="FormServer.cs" Description="文件已成功备份为 Y:\百度云同步盘\AsyncTcpServer\Backup\FormServer.cs">
+</Event><Event ErrorLevel="0" Project="AsyncTcpServer" Source="FormServer.Designer.cs" Description="文件已成功备份为 Y:\百度云同步盘\AsyncTcpServer\Backup\FormServer.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AsyncTcpServer" Source="Program.cs" Description="文件已成功备份为 Y:\百度云同步盘\AsyncTcpServer\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="AsyncTcpServer" Source="Properties\AssemblyInfo.cs" Description="文件已成功备份为 Y:\百度云同步盘\AsyncTcpServer\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AsyncTcpServer" Source="Properties\Resources.Designer.cs" Description="文件已成功备份为 Y:\百度云同步盘\AsyncTcpServer\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AsyncTcpServer" Source="Properties\Settings.Designer.cs" Description="文件已成功备份为 Y:\百度云同步盘\AsyncTcpServer\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AsyncTcpServer" Source="User.cs" Description="文件已成功备份为 Y:\百度云同步盘\AsyncTcpServer\Backup\User.cs">
+</Event><Event ErrorLevel="0" Project="AsyncTcpServer" Source="Properties\Settings.settings" Description="文件已成功备份为 Y:\百度云同步盘\AsyncTcpServer\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="AsyncTcpServer" Source="FormServer.resx" Description="文件已成功备份为 Y:\百度云同步盘\AsyncTcpServer\Backup\FormServer.resx">
+</Event><Event ErrorLevel="0" Project="AsyncTcpServer" Source="Properties\Resources.resx" Description="文件已成功备份为 Y:\百度云同步盘\AsyncTcpServer\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="AsyncTcpServer" Source="AsyncTcpServer.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="AsyncTcpServer" Source="AsyncTcpServer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AsyncTcpServer" Source="AsyncTcpServer.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

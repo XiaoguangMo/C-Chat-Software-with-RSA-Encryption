@@ -1,0 +1,9 @@
+\\psf\Home\Desktop\AsyncTcpServer\obj\Debug\AsyncTcpServer.exe
+\\psf\Home\Desktop\AsyncTcpServer\obj\Debug\AsyncTcpServer.pdb
+\\psf\Home\Desktop\AsyncTcpServer\bin\Debug\AsyncTcpServer.exe
+\\psf\Home\Desktop\AsyncTcpServer\bin\Debug\AsyncTcpServer.pdb
+\\psf\Home\Desktop\AsyncTcpServer\obj\Debug\ResolveAssemblyReference.cache
+\\psf\Home\Desktop\AsyncTcpServer\obj\Debug\AsyncTcpServer.FormServer.resources
+\\psf\Home\Desktop\AsyncTcpServer\obj\Debug\AsyncTcpServer.Properties.Resources.resources
+\\psf\Home\Desktop\AsyncTcpServer\obj\Debug\GenerateResource.read.1.tlog
+\\psf\Home\Desktop\AsyncTcpServer\obj\Debug\GenerateResource.write.1.tlog

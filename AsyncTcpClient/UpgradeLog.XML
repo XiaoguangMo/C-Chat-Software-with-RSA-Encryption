@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AsyncTcpClient">
+</Property><Property Name="解决方案文件" Value="\\psf\Home\Desktop\AsyncTcpClient\AsyncTcpClient.sln">
+</Property><Property Name="Date" Value="2014年5月12日">
+</Property><Property Name="Time" Value="15:38:16">
+</Property></Properties><Event ErrorLevel="0" Project="AsyncTcpClient" Source="AsyncTcpClient.csproj" Description="项目文件已成功备份为 \\psf\Home\Desktop\AsyncTcpClient\Backup\AsyncTcpClient.csproj">
+</Event><Event ErrorLevel="0" Project="AsyncTcpClient" Source="FormClient.cs" Description="文件已成功备份为 \\psf\Home\Desktop\AsyncTcpClient\Backup\FormClient.cs">
+</Event><Event ErrorLevel="0" Project="AsyncTcpClient" Source="FormClient.Designer.cs" Description="文件已成功备份为 \\psf\Home\Desktop\AsyncTcpClient\Backup\FormClient.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AsyncTcpClient" Source="Program.cs" Description="文件已成功备份为 \\psf\Home\Desktop\AsyncTcpClient\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="AsyncTcpClient" Source="Properties\AssemblyInfo.cs" Description="文件已成功备份为 \\psf\Home\Desktop\AsyncTcpClient\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AsyncTcpClient" Source="Properties\Resources.Designer.cs" Description="文件已成功备份为 \\psf\Home\Desktop\AsyncTcpClient\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AsyncTcpClient" Source="Properties\Settings.Designer.cs" Description="文件已成功备份为 \\psf\Home\Desktop\AsyncTcpClient\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AsyncTcpClient" Source="Properties\Settings.settings" Description="文件已成功备份为 \\psf\Home\Desktop\AsyncTcpClient\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="AsyncTcpClient" Source="FormClient.resx" Description="文件已成功备份为 \\psf\Home\Desktop\AsyncTcpClient\Backup\FormClient.resx">
+</Event><Event ErrorLevel="0" Project="AsyncTcpClient" Source="Properties\Resources.resx" Description="文件已成功备份为 \\psf\Home\Desktop\AsyncTcpClient\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="AsyncTcpClient" Source="AsyncTcpClient.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="AsyncTcpClient" Source="AsyncTcpClient.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AsyncTcpClient" Source="AsyncTcpClient.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

@@ -1,0 +1,10 @@
+C:\Users\sony\Desktop\练习\RSA\RSA\bin\Debug\RSA.exe
+C:\Users\sony\Desktop\练习\RSA\RSA\bin\Debug\RSA.pdb
+C:\Users\sony\Desktop\练习\RSA\RSA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sony\Desktop\练习\RSA\RSA\obj\x86\Debug\RSA.exe
+C:\Users\sony\Desktop\练习\RSA\RSA\obj\x86\Debug\RSA.pdb
+\\psf\Home\Desktop\RSA\RSA\obj\x86\Debug\RSA.exe
+\\psf\Home\Desktop\RSA\RSA\obj\x86\Debug\RSA.pdb
+\\psf\Home\Desktop\RSA\RSA\bin\Debug\RSA.exe
+\\psf\Home\Desktop\RSA\RSA\bin\Debug\RSA.pdb
+\\psf\Home\Desktop\RSA\RSA\obj\x86\Debug\ResolveAssemblyReference.cache
